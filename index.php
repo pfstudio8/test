@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>"HOLA HUELO LA 7TIMA"</h1>
-<php> echo ERROR EN OLOR <php/>
+<php> echo "Nueva funcion agregada"  <php/>
 </body>
 </html>
